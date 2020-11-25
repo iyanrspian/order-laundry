@@ -10,6 +10,13 @@
 ## About Laravel
 
 CRUD Order's Laundry with Relation on Laravel 8
+
+*First step:
+- composer install
+- rename .env.example to .env (and configure it)
+- php artisan key:generate
+
+*Note
 - Database: MariaDB/MySQL (order_laundry)
 
 ## License
